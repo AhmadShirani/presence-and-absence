@@ -46,7 +46,7 @@
                    
                 </td>
                 <NuxtLink class="" to="/time-login">
-                        <td class="text-white bg-[#7462e1] flex justify-center items-center w-24 h-14">ثبت زمان</td>
+                        <td class="text-white bg-[#7462e1] flex justify-center items-center w-24 h-14 border-dotted">ثبت زمان</td>
                    </NuxtLink>
             </tr>
             <tr class="bg-white dark:bg-gray-800 dark:border-gray-700 border-gray-200">
@@ -60,7 +60,7 @@
                    
                 </td>
                 <NuxtLink class="" to="/time-login">
-                        <td class="text-white bg-[#7462e1] flex justify-center items-center w-24 h-14">ثبت زمان</td>
+                        <td class="text-white bg-[#7462e1] flex justify-center items-center w-24 h-14 border-dotted">ثبت زمان</td>
                    </NuxtLink>
             </tr>
         </tbody>
